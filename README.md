@@ -93,7 +93,7 @@ Histogram refers to the frequency of occurrence of variables in an interval. Her
 
 Heat Maps
 
-Heat Maps is a plot which is necessary when we need to find the dependent variables. One of the best ways to find the correlation between the features can be done using heat maps. As shown below the price feature (MSRP) has a strong correlation with Horsepower of 82% this is very important because the more the relationship between the variables the more accurate the model will be. This is how the correlation between the features can be found using heat maps. With the help of heat maps I can use these related features in building my model.
+Heat Maps is a plot which is necessary when we need to find the dependent variables. One of the best ways to find the correlation between the features can be done using heat maps. As shown below the price feature (MSRP) has a strong correlation with Horsepower of 83% this is very important because the more the relationship between the variables the more accurate the model will be. This is how the correlation between the features can be found using heat maps. With the help of heat maps I can use these related features in building my model.
 
 ![Heat map](https://user-images.githubusercontent.com/89958567/170880625-b224e7cd-55d2-42da-9139-819341c382bf.png)
 
