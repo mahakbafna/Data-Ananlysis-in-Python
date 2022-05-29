@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Audi,RS 6 4dr,Sports,Europe,Front,"$84,600","$76,417",4.2,8,450,15,22,4024,109,191
+Audi,TT 1.8 convertible 2dr (coupe),Sports,Europe,Front,"$35,940","$32,512",1.8,4,180,20,28,3131,95,159
+Audi,TT 1.8 Quattro 2dr (convertible),Sports,Europe,All,"$37,390","$33,891",1.8,4,225,20,28,2921,96,159
+Audi,TT 3.2 coupe 2dr (convertible),Sports,Europe,All,"$40,590","$36,739",3.2,6,250,21,29,3351,96,159
