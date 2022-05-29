@@ -1,4 +1,4 @@
-Data analysis of used car database  
+Data analysis of car database  
 
 Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science. It is also the part on which data scientists, data engineers and data analysts spend their majority of the time which makes it extremely important in the field of data science. This repository demonstartes some common exploratory data analysis methods and techniques using python. For purpose of illustration the [CARS.csv](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793822/CARS.csv)
  has been taken from internet since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science.
