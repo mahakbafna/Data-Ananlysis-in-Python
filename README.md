@@ -9,3 +9,5 @@ The dataset is taken from Internet  and contains details of the cars.
 The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are replaced by the median and outliers are removed accordingly.
 
 The dataset is cleaned and stored in a CleanData folder which contains the entire cleaned dataset and files structures containing subsets of the cleaned dataset based on Make of the vehicles and vehicle Model.
+
+C:\Users\Mahak Bafna\Downloads
