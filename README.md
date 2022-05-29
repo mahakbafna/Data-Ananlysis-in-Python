@@ -123,7 +123,7 @@ Then finding the Correlational Matrix
 
 ![Correlation matrix](https://user-images.githubusercontent.com/89958567/170880885-6f470253-66bc-4507-b63a-255d1f975bbf.png)
 
-Aftern that by performing the grapg between Car Make and MSRP it is shown that Price od Merecedes followed by Porshe and Jagaur is high as compared to other cars. Then after that throught Boxplot it showed Type of sports is high in price. Mostly cars have the Origin Europe.  
+Aftern that by performing the graph between Car Make and MSRP it is shown that Price of Merecedes followed by Porshe and Jagaur is high as compared to other cars. Then after that throught Boxplot it showed Type of sports is high in price. Mostly cars have the Origin Europe.  
 
 
 ANALYSIS 6
