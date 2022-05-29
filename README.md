@@ -1,6 +1,7 @@
 Data analysis of used car database  
 
-Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science. It is also the part on which data scientists, data engineers and data analysts spend their majority of the time which makes it extremely important in the field of data science. This repository demonstartes some common exploratory data analysis methods and techniques using python. For purpose of illustration the car database dataset has been taken from internet since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science.
+Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science. It is also the part on which data scientists, data engineers and data analysts spend their majority of the time which makes it extremely important in the field of data science. This repository demonstartes some common exploratory data analysis methods and techniques using python. For purpose of illustration the [CARS.csv](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793822/CARS.csv)
+ has been taken from internet since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science.
 
 DataSet Overview
 
@@ -49,11 +50,10 @@ DETECTING OUTLINERS AND PLOTTING BOXPLOT
 Detecting Outliers
 
 An outlier is a point or set of points different from other points. Sometimes they can be very high or very low. It’s often a good idea to detect and remove the outliers. Because outliers are one of the primary reasons for resulting in a less accurate model. Hence it’s a good idea to remove them. I will perform the IQR score technique to detect and remove the outliers. Often outliers can be seen with visualizations using a box plot. Shown below is the box plot of MSRP. In the plot, you can find some points are outside the box they are none other than outliers.
-![Boxplot1](https://user-images.githubusercontent.com/89958567/170880123-4adeda52-2d06-494c-9130-20c28bb51c7d.png)
 
-After using the technique now as seen below the MSRP box plot contains no outlier points this is a big improvement. Previously there were over 15 points of outliers now I have removed those outliers.
 
-![Boxplot2](https://user-images.githubusercontent.com/89958567/170880157-100a2ba1-045f-4249-b03f-0e7974d85ffb.png)
+After using the technique  the MSRP box plot contains no outlier points this is a big improvement. Previously there were over 15 points of outliers now It have removed those outliers.
+
 
 ANALYSIS 3
 
@@ -63,26 +63,16 @@ ANALYSIS 3
 
 PLOTTING GRAPHS AND COMPARING THEM WITH THEIR ENGINE SIZE,PRICE,TYPE
 
-![Grapgh of cars by type](https://user-images.githubusercontent.com/89958567/170880285-70f80df0-8524-41df-a4c5-8516b91bc751.png)
 
-SUV's Sedans seems to be the dominating car types
+Here we saw hat , SUV's Sedans seems to be the dominating car types
 
-![Box plot of Price of Every typepng](https://user-images.githubusercontent.com/89958567/170880314-79609ba5-1b46-47d7-a0ec-61905bfd9eb0.png)
+After plotting the boxplot between the price and the type Clear that Car body type strongly affect the price. 
 
-It's Clear that Car body type strongly affect the price
+Now we check cars by EngineSize by plotting a graph. The resukts shows that most of the cars have engine size 3. It means that most of the car have good engine size making the car capacity great.
 
-Now we check cars by EngineSize
+After that We checked the Horsepower of cars which concluded that mostly cars have horsepower between 200 to 210. 
 
-![Cars count by engine sixe](https://user-images.githubusercontent.com/89958567/170880326-38854f30-e49d-4753-94b2-88b408223b39.png)
-
-
-Mostly cars have engine size 3
-
-Now We check the Horsepower of cars
-
-![Horsepwer of cars](https://user-images.githubusercontent.com/89958567/170880375-d772c00f-f43b-4b7b-b44e-f254bf6b8f9d.png)
-
-Performing a 5 number summary (min, lower quartile, median, upper quartile, max)
+Then Performed a 5 number summary (min, lower quartile, median, upper quartile, max)
 
 Next step is to perform a 5-number summary for the numeric data. As discussed earlier the numeric data, in this case, are MSRP, Engine Size, Horsepower, Cylinders, Horsepower, MPG_City, MPG_Highway, Weight, Wheelbase, and Length. The five-number summary includes minimum, lower quartile, median, upper quartile, and the maximum values all these values can be obtained by using the describe method.
 
@@ -106,15 +96,9 @@ Heat Maps is a plot which is necessary when we need to find the dependent variab
 
 ![Heat map](https://user-images.githubusercontent.com/89958567/170880625-b224e7cd-55d2-42da-9139-819341c382bf.png)
 
-Scatterplot between two related varirables
+Made Scatterplot between two related varirables which concluded that Horsepower of car seems to be highly related to car price.
 
-![Relation Between Horsepower and MSRPpng](https://user-images.githubusercontent.com/89958567/170880637-8c25f4bc-cf16-4b1e-b09f-79b58c4a26f4.png)
 
-Horsepower of car seems to be highly related to car price.
-
-Using more interactive plot to show the previous plot and also adding the car manufacturer
-
-![newplot](https://user-images.githubusercontent.com/89958567/170880702-69535e47-351e-409f-be37-39dc3b7078fa.png)
 
 ANALYSIS 5
 
@@ -122,9 +106,8 @@ ANALYSIS 5
 
 [Box plot of MPG_City.zip](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793786/Box.plot.of.MPG_City.zip)
 
-Univariate Analysis
+Here, we performed Univariate Analysis and Bivariant Analysis of the Dataset. By plotting didderent graph we analysed in Univariant Anaysis that :
 
-![Univariant Analysis](https://user-images.githubusercontent.com/89958567/170880843-fe6bf8e1-6374-4201-a501-844a7da83bb1.png)
 
 Most of the cars have the Engine size from 2 to 3
 
@@ -140,31 +123,8 @@ Then finding the Correlational Matrix
 
 ![Correlation matrix](https://user-images.githubusercontent.com/89958567/170880885-6f470253-66bc-4507-b63a-255d1f975bbf.png)
 
-Biariant Analysis
 
-Price Analysis with Make
 
-![Boxplot of Price analysis](https://user-images.githubusercontent.com/89958567/170880913-c72e5511-f2c2-44af-8d72-f76b7cdb34d6.png)
-
-Price Analysis with Type
-
-![Boxplot 2](https://user-images.githubusercontent.com/89958567/170880924-7f6e503e-009c-4830-9e1d-e568b797acc5.png)
-
-Catplot of Price with Type of Car
-
-![catplot](https://user-images.githubusercontent.com/89958567/170880946-f246d8a4-b7f0-4133-b3cb-45fc9130e2c7.png)
-
-Catplot of Price with MPG_City of Car
-
-![Box plot of MPG_City](https://user-images.githubusercontent.com/89958567/170880958-eb93acef-7c33-4a80-9b43-dd8306ddaeef.png)
-
-Catplot of Cylinder vs Horsepower
-
-![Catplot 2](https://user-images.githubusercontent.com/89958567/170880969-90cd7267-c191-4793-819f-9e036f71b2b8.png)
-
-Pairplot
-
-![Pairplot](https://user-images.githubusercontent.com/89958567/170880990-233791e3-dc1f-4092-906a-401f0bb2ac4a.png)
 
 ANALYSIS 6
 
@@ -172,26 +132,11 @@ Clustering
 
 The type of clustering used here is k-means clustering k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. k-means clustering minimizes within-cluster variances (squared Euclidean distances)
 
-Creating Clusters
+Created Clusters
 
-![Clustering 1](https://user-images.githubusercontent.com/89958567/170881296-f32d3314-0df3-4423-a4d6-bbe2285805b3.png)
+Then checked some scatter plots but with adding cluster.
 
-![Clustering 2](https://user-images.githubusercontent.com/89958567/170881303-54cef971-2a79-4c09-9665-ff1c2bd920bc.png)
+We can see that clusters speration in power is stronger than mileage which almost have no separation of clusters
 
-![Clustering 3](https://user-images.githubusercontent.com/89958567/170881312-5f121152-660e-4404-b546-da60637f8713.png)
-
-
-Now we check some scatter plots but with adding cluster.
-
-But yet we can see that clusters speration in power is stronger than mileage which almost have no separation of clusters
-
-Engine size vs Cylinders
-
-
-![Scatter plot](https://user-images.githubusercontent.com/89958567/170881330-93072aaf-536b-4909-80ba-7af633b3734f.png)
-
-Now we make an interactive 3D scatter plot of MSRP Horsepower, and EngineSize using also clusters
-
-![newplot (1)](https://user-images.githubusercontent.com/89958567/170881419-db9ec0a3-1aa7-4098-9e4a-f66bf012b2bb.png)
 
 
