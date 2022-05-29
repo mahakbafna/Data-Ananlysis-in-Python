@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Buick,LeSabre Custom 4dr,Sedan,USA,Front,"$26,470","$24,282",3.8,6,205,20,29,3567,112,200
+Buick,Regal LS 4dr,Sedan,USA,Front,"$24,895","$22,835",3.8,6,200,20,30,3461,109,196
+Buick,Regal GS 4dr,Sedan,USA,Front,"$28,345","$26,047",3.8,6,240,18,28,3536,109,196
+Buick,LeSabre Limited 4dr,Sedan,USA,Front,"$32,245","$29,566",3.8,6,205,20,29,3591,112,200
+Buick,Park Avenue 4dr,Sedan,USA,Front,"$35,545","$32,244",3.8,6,205,20,29,3778,114,207
+Buick,Park Avenue Ultra 4dr,Sedan,USA,Front,"$40,720","$36,927",3.8,6,240,18,28,3909,114,207
