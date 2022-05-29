@@ -1,0 +1,16 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Chevrolet,Aveo 4dr,Sedan,USA,Front,"$11,690","$10,965",1.6,4,103,28,34,2370,98,167
+Chevrolet,Aveo LS 4dr hatch,Sedan,USA,Front,"$12,585","$11,802",1.6,4,103,28,34,2348,98,153
+Chevrolet,Cavalier 2dr,Sedan,USA,Front,"$14,610","$13,697",2.2,4,140,26,37,2617,104,183
+Chevrolet,Cavalier 4dr,Sedan,USA,Front,"$14,810","$13,884",2.2,4,140,26,37,2676,104,183
+Chevrolet,Cavalier LS 2dr,Sedan,USA,Front,"$16,385","$15,357",2.2,4,140,26,37,2617,104,183
+Chevrolet,Impala 4dr,Sedan,USA,Front,"$21,900","$20,095",3.4,6,180,21,32,3465,111,200
+Chevrolet,Malibu 4dr,Sedan,USA,Front,"$18,995","$17,434",2.2,4,145,24,34,3174,106,188
+Chevrolet,Malibu LS 4dr,Sedan,USA,Front,"$20,370","$18,639",3.5,6,200,22,30,3297,106,188
+Chevrolet,Monte Carlo LS 2dr,Sedan,USA,Front,"$21,825","$20,026",3.4,6,180,21,32,3340,111,198
+Chevrolet,Impala LS 4dr,Sedan,USA,Front,"$25,000","$22,931",3.8,6,200,20,30,3476,111,200
+Chevrolet,Impala SS 4dr,Sedan,USA,Front,"$27,995","$25,672",3.8,6,240,18,28,3606,111,200
+Chevrolet,Malibu LT 4dr,Sedan,USA,Front,"$23,495","$21,551",3.5,6,200,23,32,3315,106,188
+Chevrolet,Monte Carlo SS 2dr,Sedan,USA,Front,"$24,225","$22,222",3.8,6,200,18,28,3434,111,198
+Chevrolet,Astro,Sedan,USA,All,"$26,395","$23,954",4.3,6,190,14,17,4605,111,190
+Chevrolet,Venture LS,Sedan,USA,Front,"$27,020","$24,518",3.4,6,185,19,26,3699,112,187

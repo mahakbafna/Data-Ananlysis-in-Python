@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Chevrolet,Suburban 1500 LT,SUV,USA,Front,"$42,735","$37,422",5.3,8,295,14,18,4947,130,219
+Chevrolet,Tahoe LT,SUV,USA,All,"$41,465","$36,287",5.3,8,295,14,18,5050,116,197
+Chevrolet,TrailBlazer LT,SUV,USA,Front,"$30,295","$27,479",4.2,6,275,16,21,4425,113,192
+Chevrolet,Tracker,SUV,USA,Front,"$20,255","$19,108",2.5,6,165,19,22,2866,98,163

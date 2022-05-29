@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Chevrolet,Colorado Z85,Truck,USA,All,"$18,760","$17,070",2.8,4,175,18,23,3623,111,192
+Chevrolet,Silverado 1500 Regular Cab,Truck,USA,Rear,"$20,310","$18,480",4.3,6,200,15,21,4142,119,206
+Chevrolet,Silverado SS,Truck,USA,All,"$40,340","$35,399",6,8,300,13,17,4804,144,238
+Chevrolet,SSR,Truck,USA,Rear,"$41,995","$39,306",5.3,8,300,16,19,4760,116,191
