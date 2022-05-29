@@ -4,10 +4,10 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 
 DataSet Overview
 
-The dataset is taken from Internet  and contains details of the cars.
+1- The dataset is taken from Internet  and contains details of the cars.
 
-The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are replaced by the median and outliers are removed accordingly.
+2-The dataset is not clean and hence a lot of data cleaning is carried out. For e.g. prices where too high which are replaced by the median and outliers are removed accordingly.
 
-The dataset is cleaned and stored in a CleanData folder which contains the entire cleaned dataset and files structures containing subsets of the cleaned dataset based on Make of the vehicles and vehicle Model.
+3-The dataset is cleaned and stored in a CleanData folder which contains the entire cleaned dataset and files structures containing subsets of the cleaned dataset based on Make of the vehicles and vehicle Model.
 
 <img width="877" alt="img" src="https://user-images.githubusercontent.com/89958567/170879214-9c064c01-5532-4fc9-80b1-077e49fec646.png">
