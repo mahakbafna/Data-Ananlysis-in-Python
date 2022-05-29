@@ -13,7 +13,8 @@ DataSet Overview
 
 <img width="877" alt="img" src="https://user-images.githubusercontent.com/89958567/170879214-9c064c01-5532-4fc9-80b1-077e49fec646.png">
 
-More Info
+More Info and Conclusion : 
+
 The main folder contains 7 folders.
 
 1- Folders from Analysis1 - Analysis 6 contain the Goolge Colab Notebook, python scripts along with the Plots for that analysis.
