@@ -129,6 +129,11 @@ Then finding the Correlational Matrix
 
 ANALYSIS 6
 
+[ANALYSIS_6_CARS_data.zip](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793851/ANALYSIS_6_CARS_data.zip)
+
+[Clustering 1.zip](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793852/Clustering.1.zip)
+
+
 Clustering
 
 The type of clustering used here is k-means clustering k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. k-means clustering minimizes within-cluster variances (squared Euclidean distances)
