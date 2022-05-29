@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+BMW,M3 coupe 2dr,Sports,Europe,Rear,"$48,195","$44,170",3.2,6,333,16,24,3415,108,177
+BMW,M3 convertible 2dr,Sports,Europe,Rear,"$56,595","$51,815",3.2,6,333,16,23,3781,108,177
+BMW,Z4 convertible 2.5i 2dr,Sports,Europe,Rear,"$33,895","$31,065",2.5,6,184,20,28,2932,98,161
+BMW,Z4 convertible 3.0i 2dr,Sports,Europe,Rear,"$41,045","$37,575",3,6,225,21,29,2998,98,161
