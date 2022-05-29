@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Mercedes-Benz,C240,Wagon,Europe,Rear,"$33,780","$31,466",2.6,6,168,19,25,3470,107,179
+Mercedes-Benz,E320,Wagon,Europe,Rear,"$50,670","$47,174",3.2,6,221,19,27,3966,112,190
+Mercedes-Benz,E500,Wagon,Europe,All,"$60,670","$56,474",5,8,302,16,24,4230,112,190

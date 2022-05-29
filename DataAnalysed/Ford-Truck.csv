@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Ford,F-150 Regular Cab XL,Truck,USA,Rear,"$22,010","$19,490",4.6,8,231,15,19,4788,126,211
+Ford,F-150 Supercab Lariat,Truck,USA,All,"$33,540","$29,405",5.4,8,300,14,18,5464,133,218
+Ford,Ranger 2.3 XL Regular Cab,Truck,USA,Rear,"$14,385","$13,717",2.3,4,143,24,29,3028,111,188

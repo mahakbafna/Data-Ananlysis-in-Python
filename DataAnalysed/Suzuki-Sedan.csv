@@ -1,0 +1,6 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Suzuki,Aeno S 4dr,Sedan,Asia,Front,"$12,884","$12,719",2.3,4,155,25,31,2676,98,171
+Suzuki,Aerio LX 4dr,Sedan,Asia,Front,"$14,500","$14,317",2.3,4,155,25,31,2676,98,171
+Suzuki,Forenza S 4dr,Sedan,Asia,Front,"$12,269","$12,116",2,4,119,24,31,2701,102,177
+Suzuki,Forenza EX 4dr,Sedan,Asia,Front,"$15,568","$15,378",2,4,119,22,30,2756,102,177
+Suzuki,Verona LX 4dr,Sedan,Asia,Front,"$17,262","$17,053",2.5,6,155,20,27,3380,106,188

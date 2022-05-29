@@ -1,0 +1,6 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Toyota,Sequoia SR5,SUV,Asia,All,"$35,695","$31,827",4.7,8,240,14,17,5270,118,204
+Toyota,4Runner SR5 V6,SUV,Asia,Front,"$27,710","$24,801",4,6,245,18,21,4035,110,189
+Toyota,Highlander V6,SUV,Asia,All,"$27,930","$24,915",3.3,6,230,18,24,3935,107,185
+Toyota,Land Cruiser,SUV,Asia,All,"$54,765","$47,986",4.7,8,325,13,17,5390,112,193
+Toyota,RAV4,SUV,Asia,All,"$20,290","$18,553",2.4,4,161,22,27,3119,98,167

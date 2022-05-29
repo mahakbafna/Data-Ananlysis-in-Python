@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Nissan,Pathfinder Armada SE,SUV,Asia,Front,"$33,840","$30,815",5.6,8,305,13,19,5013,123,207
+Nissan,Pathfinder SE,SUV,Asia,Front,"$27,339","$25,972",3.5,6,240,16,21,3871,106,183
+Nissan,Xterra XE V6,SUV,Asia,Front,"$20,939","$19,512",3.3,6,180,17,20,3760,104,178

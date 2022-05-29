@@ -1,0 +1,6 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Mercedes-Benz,SL500 convertible 2dr,Sports,Europe,Rear,"$90,520","$84,325",5,8,302,16,23,4065,101,179
+Mercedes-Benz,SL55 AMG 2dr,Sports,Europe,Rear,"$121,770","$113,388",5.5,8,493,14,21,4235,101,179
+Mercedes-Benz,SL600 convertible 2dr,Sports,Europe,Rear,"$126,670","$117,854",5.5,12,493,13,19,4429,101,179
+Mercedes-Benz,SLK230 convertible 2dr,Sports,Europe,Rear,"$40,320","$37,548",2.3,4,192,21,29,3055,95,158
+Mercedes-Benz,SLK32 AMG 2dr,Sports,Europe,Rear,"$56,170","$52,289",3.2,6,349,17,22,3220,95,158

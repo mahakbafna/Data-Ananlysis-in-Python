@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Dodge,Dakota Regular Cab,Truck,USA,Rear,"$17,630","$16,264",3.7,6,210,16,22,3714,112,193
+Dodge,Dakota Club Cab,Truck,USA,Rear,"$20,300","$18,670",3.7,6,210,16,22,3829,131,219
+Dodge,Ram 1500 Regular Cab ST,Truck,USA,Rear,"$20,215","$18,076",3.7,6,215,16,21,4542,121,208

@@ -1,0 +1,10 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Volvo,S40 4dr,Sedan,Europe,Front,"$25,135","$23,701",1.9,4,170,22,29,2767,101,178
+Volvo,S60 2.5 4dr,Sedan,Europe,All,"$31,745","$29,916",2.5,5,208,20,27,3903,107,180
+Volvo,S60 T5 4dr,Sedan,Europe,Front,"$34,845","$32,902",2.3,5,247,20,28,3766,107,180
+Volvo,S60 R 4dr,Sedan,Europe,All,"$37,560","$35,382",2.5,5,300,18,25,3571,107,181
+Volvo,S80 2.9 4dr,Sedan,Europe,Front,"$37,730","$35,542",2.9,6,208,20,28,3576,110,190
+Volvo,S80 2.5T 4dr,Sedan,Europe,All,"$37,885","$35,688",2.5,5,194,20,27,3691,110,190
+Volvo,C70 LPT convertible 2dr,Sedan,Europe,Front,"$40,565","$38,203",2.4,5,197,21,28,3450,105,186
+Volvo,C70 HPT convertible 2dr,Sedan,Europe,Front,"$42,565","$40,083",2.3,5,242,20,26,3450,105,186
+Volvo,S80 T6 4dr,Sedan,Europe,Front,"$45,210","$42,573",2.9,6,268,19,26,3653,110,190

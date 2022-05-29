@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Ford,Mustang 2dr (convertible),Sports,USA,Rear,"$18,345","$16,943",3.8,6,193,20,29,3290,101,183
+Ford,Mustang GT Premium convertible 2dr,Sports,USA,Rear,"$29,380","$26,875",4.6,8,260,17,25,3347,101,183
+Ford,Thunderbird Deluxe convert w/hardtop 2d,Sports,USA,Front,"$37,530","$34,483",3.9,8,280,17,24,3780,107,186

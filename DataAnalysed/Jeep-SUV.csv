@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Jeep,Grand Cherokee Laredo,SUV,USA,Front,"$27,905","$25,686",4,6,195,16,21,3790,106,181
+Jeep,Liberty Sport,SUV,USA,All,"$20,130","$18,973",2.4,4,150,20,24,3826,104,174
+Jeep,Wrangler Sahara convertible 2dr,SUV,USA,All,"$25,520","$23,275",4,6,190,16,19,3575,93,150

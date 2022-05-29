@@ -1,0 +1,17 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Mercedes-Benz,C230 Sport 2dr,Sedan,Europe,Rear,"$26,060","$24,249",1.8,4,189,22,30,3250,107,178
+Mercedes-Benz,C320 Sport 2dr,Sedan,Europe,Rear,"$28,370","$26,435",3.2,6,215,19,26,3430,107,178
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear,"$32,280","$30,071",2.6,6,168,20,25,3360,107,178
+Mercedes-Benz,C240 4dr,Sedan,Europe,All,"$33,480","$31,187",2.6,6,168,19,25,3360,107,178
+Mercedes-Benz,C320 Sport 4dr,Sedan,Europe,Rear,"$35,920","$33,456",3.2,6,215,19,26,3430,107,178
+Mercedes-Benz,C320 4dr,Sedan,Europe,Rear,"$37,630","$35,046",3.2,6,215,20,26,3450,107,178
+Mercedes-Benz,C320 4dr,Sedan,Europe,All,"$38,830","$36,162",3.2,6,215,19,27,3450,107,178
+Mercedes-Benz,C32 AMG 4dr,Sedan,Europe,Rear,"$52,120","$48,522",3.2,6,349,16,21,3540,107,178
+Mercedes-Benz,CL500 2dr,Sedan,Europe,Rear,"$94,820","$88,324",5,8,302,16,24,4085,114,196
+Mercedes-Benz,CL600 2dr,Sedan,Europe,Rear,"$128,420","$119,600",5.5,12,493,13,19,4473,114,196
+Mercedes-Benz,CLK320 coupe 2dr (convertible),Sedan,Europe,Rear,"$45,707","$41,966",3.2,6,215,20,26,3770,107,183
+Mercedes-Benz,CLK500 coupe 2dr (convertible),Sedan,Europe,Rear,"$52,800","$49,104",5,8,302,17,22,3585,107,183
+Mercedes-Benz,E320 4dr,Sedan,Europe,Rear,"$48,170","$44,849",3.2,6,221,19,27,3635,112,190
+Mercedes-Benz,E500 4dr,Sedan,Europe,Rear,"$57,270","$53,382",5,8,302,16,20,3815,112,190
+Mercedes-Benz,S430 4dr,Sedan,Europe,Rear,"$74,320","$69,168",4.3,8,275,18,26,4160,122,203
+Mercedes-Benz,S500 4dr,Sedan,Europe,All,"$86,970","$80,939",5,8,302,16,24,4390,122,203

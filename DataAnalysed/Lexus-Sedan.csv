@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Lexus,ES 330 4dr,Sedan,Asia,Front,"$32,350","$28,755",3.3,6,225,20,29,3460,107,191
+Lexus,IS 300 4dr manual,Sedan,Asia,Rear,"$31,045","$27,404",3,6,215,18,25,3255,105,177
+Lexus,IS 300 4dr auto,Sedan,Asia,Rear,"$32,415","$28,611",3,6,215,18,24,3285,105,177
+Lexus,GS 300 4dr,Sedan,Asia,Rear,"$41,010","$36,196",3,6,220,18,25,3649,110,189
+Lexus,GS 430 4dr,Sedan,Asia,Rear,"$48,450","$42,232",4.3,8,300,18,23,3715,110,189
+Lexus,LS 430 4dr,Sedan,Asia,Rear,"$55,750","$48,583",4.3,8,290,18,25,3990,115,197

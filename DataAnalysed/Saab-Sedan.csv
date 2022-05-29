@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Saab,9-3 Arc Sport 4dr,Sedan,Europe,Front,"$30,860","$29,269",2,4,210,20,28,3175,105,183
+Saab,9-3 Aero 4dr,Sedan,Europe,Front,"$33,360","$31,562",2,4,210,20,28,3175,105,183
+Saab,9-5 Arc 4dr,Sedan,Europe,Front,"$35,105","$33,011",2.3,4,220,21,29,3470,106,190
+Saab,9-5 Aero 4dr,Sedan,Europe,Front,"$39,465","$37,721",2.3,4,250,21,29,3470,106,190
+Saab,9-3 Arc convertible 2dr,Sedan,Europe,Front,"$40,670","$38,520",2,4,210,21,29,3480,105,182
+Saab,9-3 Aero convertible 2dr,Sedan,Europe,Front,"$43,175","$40,883",2,4,210,21,30,3700,105,182

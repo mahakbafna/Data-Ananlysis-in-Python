@@ -1,0 +1,10 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Kia,Optima LX 4dr,Sedan,Asia,Front,"$16,040","$14,910",2.4,4,138,23,30,3281,106,186
+Kia,Rio 4dr manual,Sedan,Asia,Front,"$10,280","$9,875",1.6,4,104,26,33,2403,95,167
+Kia,Rio 4dr auto,Sedan,Asia,Front,"$11,155","$10,705",1.6,4,104,25,32,2458,95,167
+Kia,Spectra 4dr,Sedan,Asia,Front,"$12,360","$11,630",1.8,4,124,24,32,2661,101,178
+Kia,Spectra GS 4dr hatch,Sedan,Asia,Front,"$13,580","$12,830",1.8,4,124,24,32,2686,101,178
+Kia,Spectra GSX 4dr hatch,Sedan,Asia,Front,"$14,630","$13,790",1.8,4,124,24,32,2697,101,178
+Kia,Optima LX V6 4dr,Sedan,Asia,Front,"$18,435","$16,850",2.7,6,170,20,27,3279,106,186
+Kia,Amanti 4dr,Sedan,Asia,Front,"$26,000","$23,764",3.5,6,195,17,25,4021,110,196
+Kia,Sedona LX,Sedan,Asia,Front,"$20,615","$19,400",3.5,6,195,16,22,4802,115,194

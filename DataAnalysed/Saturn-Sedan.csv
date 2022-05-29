@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Saturn,Ion1 4dr,Sedan,USA,Front,"$10,995","$10,319",2.2,4,140,26,35,2692,103,185
+Saturn,lon2 4dr,Sedan,USA,Front,"$14,300","$13,393",2.2,4,140,26,35,2692,103,185
+Saturn,lon3 4dr,Sedan,USA,Front,"$15,825","$14,811",2.2,4,140,26,35,2692,103,185
+Saturn,lon2 quad coupe 2dr,Sedan,USA,Front,"$14,850","$13,904",2.2,4,140,26,35,2751,103,185
+Saturn,lon3 quad coupe 2dr,Sedan,USA,Front,"$16,350","$15,299",2.2,4,140,26,35,2751,103,185
+Saturn,L300-2 4dr,Sedan,USA,Front,"$21,410","$19,801",3,6,182,20,28,3197,107,190

@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Jaguar,XK8 coupe 2dr,Sports,Europe,Rear,"$69,995","$63,756",4.2,8,294,18,26,3779,102,187
+Jaguar,XK8 convertible 2dr,Sports,Europe,Rear,"$74,995","$68,306",4.2,8,294,18,26,3980,102,187
+Jaguar,XKR coupe 2dr,Sports,Europe,Rear,"$81,995","$74,676",4.2,8,390,16,23,3865,102,187
+Jaguar,XKR convertible 2dr,Sports,Europe,Rear,"$86,995","$79,226",4.2,8,390,16,23,4042,102,187

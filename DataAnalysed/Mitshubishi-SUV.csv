@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Mitsubishi,Endeavor XLS,SUV,Asia,All,"$30,492","$28,330",3.8,6,215,17,21,4134,109,190
+Mitsubishi,Montero XLS,SUV,Asia,All,"$33,112","$30,763",3.8,6,215,15,19,4718,110,190
+Mitsubishi,Outlander LS,SUV,Asia,Front,"$18,892","$17,569",2.4,4,160,21,27,3240,103,179

@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Subaru,Impreza 2.5 RS 4dr,Sedan,Asia,All,"$19,945","$18,399",2.5,4,165,22,28,2965,99,174
+Subaru,Legacy L 4dr,Sedan,Asia,All,"$20,445","$18,713",2.5,4,165,21,28,3285,104,184
+Subaru,Legacy GT 4dr,Sedan,Asia,All,"$25,645","$23,336",2.5,4,165,21,28,3395,104,184
+Subaru,Outback Limited Sedan 4dr,Sedan,Asia,All,"$27,145","$24,687",2.5,4,165,20,27,3495,104,184
+Subaru,Outback H6 4dr,Sedan,Asia,All,"$29,345","$26,660",3,6,212,19,26,3610,104,184
+Subaru,Outback H-6 VDC 4dr,Sedan,Asia,All,"$31,545","$28,603",3,6,212,19,26,3630,104,184

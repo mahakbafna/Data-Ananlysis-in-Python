@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Oldsmobile,Alero GX 2dr,Sedan,USA,Front,"$18,825","$17,642",2.2,4,140,24,32,2946,107,187
+Oldsmobile,Alero GLS 2dr,Sedan,USA,Front,"$23,675","$21,485",3.4,6,170,20,29,3085,107,187
+Oldsmobile,Silhouette GL,Sedan,USA,Front,"$28,790","$26,120",3.4,6,185,19,26,3948,120,201

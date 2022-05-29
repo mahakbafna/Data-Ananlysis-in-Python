@@ -1,0 +1,9 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Pontiac,Sunfire 1SA 2dr,Sedan,USA,Front,"$15,495","$14,375",2.2,4,140,24,33,2771,104,182
+Pontiac,Grand Am GT 2dr,Sedan,USA,Front,"$22,450","$20,595",3.4,6,175,20,29,3118,107,186
+Pontiac,Grand Prix GT1 4dr,Sedan,USA,Front,"$22,395","$20,545",3.8,6,200,20,30,3477,111,198
+Pontiac,Sunfire 1SC 2dr,Sedan,USA,Front,"$17,735","$16,369",2.2,4,140,24,33,2771,104,182
+Pontiac,Grand Prix GT2 4dr,Sedan,USA,Front,"$24,295","$22,284",3.8,6,200,20,30,3484,111,198
+Pontiac,Bonneville GXP 4dr,Sedan,USA,Front,"$35,995","$32,997",4.6,8,275,17,20,3790,112,203
+Pontiac,Montana,Sedan,USA,Front,"$23,845","$21,644",3.4,6,185,19,26,3803,112,187
+Pontiac,Montana EWB,Sedan,USA,All,"$31,370","$28,454",3.4,6,185,18,24,4431,121,201

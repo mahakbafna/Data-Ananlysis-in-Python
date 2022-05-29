@@ -1,0 +1,12 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Honda,Civic DX 2dr,Sedan,Asia,Front,"$13,270","$12,175",1.7,4,115,32,38,2432,103,175
+Honda,Civic HX 2dr,Sedan,Asia,Front,"$14,170","$12,996",1.7,4,117,36,44,2500,103,175
+Honda,Civic LX 4dr,Sedan,Asia,Front,"$15,850","$14,531",1.7,4,115,32,38,2513,103,175
+Honda,Accord LX 2dr,Sedan,Asia,Front,"$19,860","$17,924",2.4,4,160,26,34,2994,105,188
+Honda,Accord EX 2dr,Sedan,Asia,Front,"$22,260","$20,080",2.4,4,160,26,34,3047,105,188
+Honda,Civic EX 4dr,Sedan,Asia,Front,"$17,750","$16,265",1.7,4,127,32,37,2601,103,175
+Honda,Civic Si 2dr hatch,Sedan,Asia,Front,"$19,490","$17,849",2,4,160,26,30,2782,101,166
+Honda,Accord LX V6 4dr,Sedan,Asia,Front,"$23,760","$21,428",3,6,240,21,30,3349,108,190
+Honda,Accord EX V6 2dr,Sedan,Asia,Front,"$26,960","$24,304",3,6,240,21,30,3294,105,188
+Honda,Odyssey LX,Sedan,Asia,Front,"$24,950","$22,498",3.5,6,240,18,25,4310,118,201
+Honda,Odyssey EX,Sedan,Asia,Front,"$27,450","$24,744",3.5,6,240,18,25,4365,118,201

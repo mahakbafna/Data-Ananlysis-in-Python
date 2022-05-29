@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Infiniti,G35 4dr,Sedan,Asia,Rear,"$28,495","$26,157",3.5,6,260,18,26,3336,112,187
+Infiniti,G35 Sport Coupe 2dr,Sedan,Asia,Rear,"$29,795","$27,536",3.5,6,280,18,26,3416,112,182
+Infiniti,G35 4dr,Sedan,Asia,All,"$32,445","$29,783",3.5,6,260,18,26,3677,112,187
+Infiniti,I35 4dr,Sedan,Asia,Front,"$31,145","$28,320",3.5,6,255,19,26,3306,108,194
+Infiniti,M45 4dr,Sedan,Asia,Rear,"$42,845","$38,792",4.5,8,340,17,23,3851,110,197
+Infiniti,Q45 Luxury 4dr,Sedan,Asia,Rear,"$52,545","$47,575",4.5,8,340,17,23,3977,113,200

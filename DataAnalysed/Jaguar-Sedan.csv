@@ -1,0 +1,9 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Jaguar,X-Type 2.5 4dr,Sedan,Europe,All,"$29,995","$27,355",2.5,6,192,18,26,3428,107,184
+Jaguar,X-Type 3.0 4dr,Sedan,Europe,All,"$33,995","$30,995",3,6,227,18,25,3516,107,184
+Jaguar,S-Type 3.0 4dr,Sedan,Europe,Rear,"$43,895","$40,004",3,6,235,18,26,3777,115,192
+Jaguar,S-Type 4.2 4dr,Sedan,Europe,Rear,"$49,995","$45,556",4.2,8,294,18,28,3874,115,192
+Jaguar,S-Type R 4dr,Sedan,Europe,Rear,"$63,120","$57,499",4.2,8,390,17,24,4046,115,192
+Jaguar,Vanden Plas 4dr,Sedan,Europe,Rear,"$68,995","$62,846",4.2,8,294,18,28,3803,119,200
+Jaguar,XJ8 4dr,Sedan,Europe,Rear,"$59,995","$54,656",4.2,8,294,18,28,3803,119,200
+Jaguar,XJR 4dr,Sedan,Europe,Rear,"$74,995","$68,306",4.2,8,390,17,24,3948,119,200

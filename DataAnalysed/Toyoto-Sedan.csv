@@ -1,0 +1,17 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Toyota,Corolla CE 4dr,Sedan,Asia,Front,"$14,085","$13,065",1.8,4,130,32,40,2502,102,178
+Toyota,Corolla S 4dr,Sedan,Asia,Front,"$15,030","$13,650",1.8,4,130,32,40,2524,102,178
+Toyota,Corolla LE 4dr,Sedan,Asia,Front,"$15,295","$13,889",1.8,4,130,32,40,2524,102,178
+Toyota,Echo 2dr manual,Sedan,Asia,Front,"$10,760","$10,144",1.5,4,108,35,43,2035,93,163
+Toyota,Echo 2dr auto,Sedan,Asia,Front,"$11,560","$10,896",1.5,4,108,33,39,2085,93,163
+Toyota,Echo 4dr,Sedan,Asia,Front,"$11,290","$10,642",1.5,4,108,35,43,2055,93,163
+Toyota,Camry LE 4dr,Sedan,Asia,Front,"$19,560","$17,558",2.4,4,157,24,33,3086,107,189
+Toyota,Camry LE V6 4dr,Sedan,Asia,Front,"$22,775","$20,325",3,6,210,21,29,3296,107,189
+Toyota,Camry Solara SE 2dr,Sedan,Asia,Front,"$19,635","$17,722",2.4,4,157,24,33,3175,107,193
+Toyota,Camry Solara SE V6 2dr,Sedan,Asia,Front,"$21,965","$19,819",3.3,6,225,20,29,3417,107,193
+Toyota,Avalon XL 4dr,Sedan,Asia,Front,"$26,560","$23,693",3,6,210,21,29,3417,107,192
+Toyota,Camry XLE V6 4dr,Sedan,Asia,Front,"$25,920","$23,125",3,6,210,21,29,3362,107,189
+Toyota,Camry Solara SLE V6 2dr,Sedan,Asia,Front,"$26,510","$23,908",3.3,6,225,20,29,3439,107,193
+Toyota,Avalon XLS 4dr,Sedan,Asia,Front,"$30,920","$27,271",3,6,210,21,29,3439,107,192
+Toyota,Sienna CE,Sedan,Asia,Front,"$23,495","$21,198",3.3,6,230,19,27,4120,119,200
+Toyota,Sienna XLE Limited,Sedan,Asia,Front,"$28,800","$25,690",3.3,6,230,19,27,4165,119,200

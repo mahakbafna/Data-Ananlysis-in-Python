@@ -1,0 +1,7 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Porsche,911 Carrera convertible 2dr (coupe),Sports,Europe,Rear,"$79,165","$69,229",3.6,6,315,18,26,3135,93,175
+Porsche,911 Carrera 4S coupe 2dr (convert),Sports,Europe,All,"$84,165","$72,206",3.6,6,315,17,24,3240,93,175
+Porsche,911 Targa coupe 2dr,Sports,Europe,Rear,"$76,765","$67,128",3.6,6,315,18,26,3119,93,175
+Porsche,911 GT2 2dr,Sports,Europe,Rear,"$192,465","$173,560",3.6,6,477,17,24,3131,93,175
+Porsche,Boxster convertible 2dr,Sports,Europe,Rear,"$43,365","$37,886",2.7,6,228,20,29,2811,95,170
+Porsche,Boxster S convertible 2dr,Sports,Europe,Rear,"$52,365","$45,766",3.2,6,258,18,26,2911,95,170

@@ -1,0 +1,8 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Lincoln,LS V6 Luxury 4dr,Sedan,USA,Rear,"$32,495","$29,969",3,6,232,20,26,3681,115,194
+Lincoln,LS V6 Premium 4dr,Sedan,USA,Rear,"$36,895","$33,929",3,6,232,20,26,3681,115,194
+Lincoln,LS V8 Sport 4dr,Sedan,USA,Rear,"$40,095","$36,809",3.9,8,280,17,24,3768,115,194
+Lincoln,LS V8 Ultimate 4dr,Sedan,USA,Rear,"$43,495","$39,869",3.9,8,280,17,24,3768,115,194
+Lincoln,Town Car Signature 4dr,Sedan,USA,Rear,"$41,815","$38,418",4.6,8,239,17,25,4369,118,215
+Lincoln,Town Car Ultimate 4dr,Sedan,USA,Rear,"$44,925","$41,217",4.6,8,239,17,25,4369,118,215
+Lincoln,Town Car Ultimate L 4dr,Sedan,USA,Rear,"$50,470","$46,208",4.6,8,239,17,25,4474,124,221

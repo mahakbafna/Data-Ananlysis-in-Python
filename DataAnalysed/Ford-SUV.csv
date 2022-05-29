@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Ford,Excursion 6.8 XLT,SUV,USA,All,"$41,475","$36,494",6.8,10,310,10,13,7190,137,227
+Ford,Expedition 4.6 XLT,SUV,USA,Front,"$34,560","$30,468",4.6,8,232,15,19,5000,119,206
+Ford,Explorer XLT V6,SUV,USA,All,"$29,670","$26,983",4,6,210,15,20,4463,114,190
+Ford,Escape XLS,SUV,USA,All,"$22,515","$20,907",3,6,201,18,23,3346,103,173

@@ -1,0 +1,12 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Volkswagen,Golf GLS 4dr,Sedan,Europe,Front,"$18,715","$17,478",2,4,115,24,31,2897,99,165
+Volkswagen,GTI 1.8T 2dr hatch,Sedan,Europe,Front,"$19,825","$18,109",1.8,4,180,24,31,2934,99,168
+Volkswagen,Jetta GLS TDI 4dr,Sedan,Europe,Front,"$21,055","$19,638",1.9,4,100,38,46,3003,99,172
+Volkswagen,New Beetle GLS 1.8T 2dr,Sedan,Europe,Front,"$21,055","$19,638",1.8,4,150,24,31,2820,99,161
+Volkswagen,Jetta GLI VR6 4dr,Sedan,Europe,Front,"$23,785","$21,686",2.8,6,200,21,30,3179,99,172
+Volkswagen,New Beetle GLS convertible 2dr,Sedan,Europe,Front,"$23,215","$21,689",2,4,115,24,30,3082,99,161
+Volkswagen,Passat GLS 4dr,Sedan,Europe,Front,"$23,955","$21,898",1.8,4,170,22,31,3241,106,185
+Volkswagen,Passat GLX V6 4MOTION 4dr,Sedan,Europe,Front,"$33,180","$30,583",2.8,6,190,19,26,3721,106,185
+Volkswagen,Passat W8 4MOTION 4dr,Sedan,Europe,Front,"$39,235","$36,052",4,8,270,18,25,3953,106,185
+Volkswagen,Phaeton 4dr,Sedan,Europe,Front,"$65,000","$59,912",4.2,8,335,16,22,5194,118,204
+Volkswagen,Phaeton W12 4dr,Sedan,Europe,Front,"$75,000","$69,130",6,12,420,12,19,5399,118,204

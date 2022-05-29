@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Volkswagen,Jetta GL,Wagon,Europe,Front,"$19,005","$17,427",2,4,115,24,30,3034,99,174
+Volkswagen,Passat GLS 1.8T,Wagon,Europe,Front,"$24,955","$22,801",1.8,4,170,22,31,3338,106,184
+Volkswagen,Passat W8,Wagon,Europe,Front,"$40,235","$36,956",4,8,270,18,25,4067,106,184

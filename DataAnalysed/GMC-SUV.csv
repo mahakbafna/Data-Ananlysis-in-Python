@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+GMC,Envoy XUV SLE,SUV,USA,Front,"$31,890","$28,922",4.2,6,275,15,19,4945,129,208
+GMC,Yukon 1500 SLE,SUV,USA,Front,"$35,725","$31,361",4.8,8,285,16,19,5042,116,199
+GMC,Yukon XL 2500 SLT,SUV,USA,All,"$46,265","$40,534",6,8,325,13,17,6133,130,219

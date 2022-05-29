@@ -1,0 +1,8 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Dodge,Neon SXT 4dr,Sedan,USA,Front,"$15,040","$14,086",2,4,132,29,36,2626,105,174
+Dodge,Intrepid SE 4dr,Sedan,USA,Front,"$22,035","$20,502",2.7,6,200,21,29,3469,113,204
+Dodge,Stratus SXT 4dr,Sedan,USA,Front,"$18,820","$17,512",2.4,4,150,21,28,3182,108,191
+Dodge,Stratus SE 4dr,Sedan,USA,Front,"$20,220","$18,821",2.4,4,150,21,28,3175,108,191
+Dodge,Intrepid ES 4dr,Sedan,USA,Front,"$24,885","$23,058",3.5,6,232,18,27,3487,113,204
+Dodge,Caravan SE,Sedan,USA,Front,"$21,795","$20,508",2.4,4,150,20,26,3862,113,189
+Dodge,Grand Caravan SXT,Sedan,USA,All,"$32,660","$29,812",3.8,6,215,18,25,4440,119,201

@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Lexus,GX 470,SUV,Asia,All,"$45,700","$39,838",4.7,8,235,15,19,4740,110,188
+Lexus,LX 470,SUV,Asia,All,"$64,800","$56,455",4.7,8,235,13,17,5590,112,193
+Lexus,RX 330,SUV,Asia,All,"$39,195","$34,576",3.3,6,230,18,24,4065,107,186

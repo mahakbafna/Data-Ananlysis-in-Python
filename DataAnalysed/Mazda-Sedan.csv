@@ -1,0 +1,5 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Mazda,Mazda3 i 4dr,Sedan,Asia,Front,"$15,500","$14,525",2,4,148,26,34,2696,104,178
+Mazda,Mazda3 s 4dr,Sedan,Asia,Front,"$17,200","$15,922",2.3,4,160,25,31,2762,104,179
+Mazda,Mazda6 i 4dr,Sedan,Asia,Front,"$19,270","$17,817",2.3,4,160,24,32,3042,105,187
+Mazda,MPV ES,Sedan,Asia,Front,"$28,750","$26,600",3,6,200,18,25,3812,112,188

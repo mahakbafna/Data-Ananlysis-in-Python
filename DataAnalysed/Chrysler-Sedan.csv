@@ -1,0 +1,14 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Chrysler,PT Cruiser 4dr,Sedan,USA,Front,"$17,985","$16,919",2.4,4,150,22,29,3101,103,169
+Chrysler,PT Cruiser Limited 4dr,Sedan,USA,Front,"$22,000","$20,573",2.4,4,150,22,29,3105,103,169
+Chrysler,Sebring 4dr,Sedan,USA,Front,"$19,090","$17,805",2.4,4,150,22,30,3173,108,191
+Chrysler,Sebring Touring 4dr,Sedan,USA,Front,"$21,840","$20,284",2.7,6,200,21,28,3222,108,191
+Chrysler,300M 4dr,Sedan,USA,Front,"$29,865","$27,797",3.5,6,250,18,27,3581,113,198
+Chrysler,Concorde LX 4dr,Sedan,USA,Front,"$24,130","$22,452",2.7,6,200,21,29,3479,113,208
+Chrysler,Concorde LXi 4dr,Sedan,USA,Front,"$26,860","$24,909",3.5,6,232,19,27,3548,113,208
+Chrysler,PT Cruiser GT 4dr,Sedan,USA,Front,"$25,955","$24,172",2.4,4,220,21,27,3217,103,169
+Chrysler,Sebring convertible 2dr,Sedan,USA,Front,"$25,215","$23,451",2.4,4,150,22,30,3357,106,194
+Chrysler,300M Special Edition 4dr,Sedan,USA,Front,"$33,295","$30,884",3.5,6,255,18,27,3650,113,198
+Chrysler,Sebring Limited convertible 2dr,Sedan,USA,Front,"$30,950","$28,613",2.7,6,200,21,28,3448,106,194
+Chrysler,Town and Country LX,Sedan,USA,Front,"$27,490","$25,371",3.3,6,180,19,26,4068,119,201
+Chrysler,Town and Country Limited,Sedan,USA,Front,"$38,380","$35,063",3.8,6,215,18,25,4331,119,201

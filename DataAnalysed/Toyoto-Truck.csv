@@ -1,0 +1,4 @@
+﻿Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Toyota,Tacoma,Truck,Asia,Rear,"$12,800","$11,879",2.4,4,142,22,27,2750,103,191
+Toyota,Tundra Regular Cab V6,Truck,Asia,Rear,"$16,495","$14,978",3.4,6,190,16,18,3925,128,218
+Toyota,Tundra Access Cab V6 SR5,Truck,Asia,All,"$25,935","$23,520",3.4,6,190,14,17,4435,128,218
