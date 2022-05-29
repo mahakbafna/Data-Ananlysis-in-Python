@@ -19,6 +19,8 @@ The main folder contains 9 folders.
 
 2-Data for Analysis folder contains the clean dataset and subsets of data as per the file structure.
 
+
+
 ANALYSIS 1
 [ANALYSIS_1_CARS_Data.zip](https://github.com/mahakbafna/Data-Ananlysis-in-Python/files/8793715/ANALYSIS_1_CARS_Data.zip)
 
@@ -27,6 +29,9 @@ In this Analysis we are Cleaning the data .
 Output for every steps in Cleaning is shown. Steps are as follows:
 
 1- Checking the types of data.
+
 2- Dropping the duplicate rows.
+
 3- Removing the duplicate data.
+
 4- Dropping the missing or null values.
