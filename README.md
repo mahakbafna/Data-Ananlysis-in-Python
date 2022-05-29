@@ -97,8 +97,7 @@ Heat Maps is a plot which is necessary when we need to find the dependent variab
 
 ![Heat map](https://user-images.githubusercontent.com/89958567/170880625-b224e7cd-55d2-42da-9139-819341c382bf.png)
 
-Made Scatterplot between two related varirables which concluded that Horsepower of car seems to be highly related to car price.
-
+Made Scatterplot between two related varirables which concluded that Horsepower of car seems to be highly related to car price. Here the scatter plots are plotted between Horsepower and MSRP are as shown below. With the plot given below, we can easily draw a trend line during modeling. I can easily see a line of best fit in the plot. I have not included the scatter plot between MSRP and Engine Size or Cylinders the reason for this is that these data have comparatively less correlation with the MSRP than that of MSRP and Horsepower which is 83%. Because as seen above the correlation between MSRP and Engine Size is of 57% and that of MSRP and Cylinders is of 65% .
 
 
 ANALYSIS 5
@@ -124,7 +123,7 @@ Then finding the Correlational Matrix
 
 ![Correlation matrix](https://user-images.githubusercontent.com/89958567/170880885-6f470253-66bc-4507-b63a-255d1f975bbf.png)
 
-
+Aftern that by performing the grapg between Car Make and MSRP it is shown that Price od Merecedes followed by Porshe and Jagaur is high as compared to other cars. Then after that throught Boxplot it showed Type of sports is high in price. Mostly cars have the Origin Europe.  
 
 
 ANALYSIS 6
@@ -144,5 +143,5 @@ Then checked some scatter plots but with adding cluster.
 
 We can see that clusters speration in power is stronger than mileage which almost have no separation of clusters
 
-
+I think there is a high relationship between the MSRP (Price) and the Horsepower feature of the car. 
 
